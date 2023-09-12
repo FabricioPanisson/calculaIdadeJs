@@ -13,4 +13,4 @@ function calculaIdade(a,b){
     }
    
 }
-console.log(calculaIdade(2024));
+console.log(calculaIdade(2004,2022));
